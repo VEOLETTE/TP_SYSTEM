@@ -113,11 +113,3 @@ Implémentation d'algorithmes de recommandation
 
 Métriques d’évaluation et sauvegarde de résultats
 
-Auteurs
-Participants : NFORCHIVE NCHANJE LOUFTAN
-               WABO POKA RICK JUNIOR
-               NJIKI SEUMO VEOLETTE LAURA
-
-Encadré par : Dr ADAMOU HAMZA, Mr NGOUANFO MANFO
-
-Année académique : 2024–2025
