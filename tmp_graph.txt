@@ -1,0 +1,21 @@
+Top 20 articles recommandés pour l’utilisateur 1 (Graph):
+Article 144 avec score 0.0169
+Article 122 avec score 0.0169
+Article 92 avec score 0.0167
+Article 37 avec score 0.0164
+Article 86 avec score 0.0163
+Article 165 avec score 0.0162
+Article 4 avec score 0.0161
+Article 9 avec score 0.0159
+Article 115 avec score 0.0159
+Article 104 avec score 0.0149
+Article 55 avec score 0.0148
+Article 186 avec score 0.0040
+Article 62 avec score 0.0039
+Article 82 avec score 0.0037
+Article 166 avec score 0.0035
+Article 131 avec score 0.0033
+Article 87 avec score 0.0032
+Article 76 avec score 0.0031
+Article 91 avec score 0.0029
+Article 163 avec score 0.0029

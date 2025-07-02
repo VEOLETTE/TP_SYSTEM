@@ -1,0 +1,21 @@
+Top 20 recommandations pour l'utilisateur 1 :
+Item 85 avec score 5.70
+Item 97 avec score 5.70
+Item 149 avec score 5.65
+Item 53 avec score 5.60
+Item 131 avec score 5.60
+Item 110 avec score 5.50
+Item 198 avec score 5.50
+Item 161 avec score 5.40
+Item 146 avec score 5.20
+Item 82 avec score 5.10
+Item 164 avec score 5.00
+Item 94 avec score 4.90
+Item 13 avec score 4.80
+Item 139 avec score 4.60
+Item 50 avec score 4.50
+Item 196 avec score 4.40
+Item 22 avec score 4.20
+Item 148 avec score 4.20
+Item 195 avec score 4.20
+Item 191 avec score 4.05
