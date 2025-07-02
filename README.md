@@ -22,6 +22,7 @@ Architecture générale
 +----------+     (user_id, algo, nb)      +----------+
                        <-----------------
                     réponse = recommandations
+
 Le projet est modulaire et respecte une organisation propre avec des bibliothèques statiques, des structures de données, et une interface terminale.
 
 Structure du projet
@@ -32,6 +33,7 @@ tp_recommandation/
 ├── src/                 → Code source C (.c)
 ├── lib/                 → Bibliotheque statique (.o)
 ├── resultats.txt        → Fichier généré contenant les recommandations
+├── Dockerfile           → Fichier de configuration Docker
 ├── Makefile             → Compilation rapide
 └── README.md            → Ce fichier
 
@@ -80,11 +82,28 @@ Données utilisées
 Le fichier ratings.txt contient les interactions sous le format :
 
 
+Exécution dans Docker
+Un fichier Dockerfile est fourni pour construire une image Docker du serveur, facilitant son déploiement dans un environnement isolé.
+
+Installation de Docker
+curl -fsSL https://get.docker.com -o get-docker.sh
+sudo sh get-docker.sh
+sudo usermod -aG docker $USER
+
+Construction de l’image Docker
+
+docker build -t serveur-reco 
+
+Lancement du conteneur
+
+docker run -it -p 8080:8080 serveur-reco
+
+Le serveur écoute alors sur le port 8080 (à adapter selon ta config)
+
 Compilation et exécution
 Compilation
-make menu     
-make server   
-make client   
+make 
+
 Exécution
 
 ./menu        # Interface locale avec les 3 algorithmes
